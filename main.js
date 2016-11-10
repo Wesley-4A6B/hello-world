@@ -1,0 +1,1 @@
+alert("Mijn javascript bestand.");
